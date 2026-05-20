@@ -1,0 +1,4 @@
+=== RESULTADOS DEL ANÁLISIS CLIMÁTICO ===
+Promedio: -0.05°C
+Máximo: 1.17°C
+Mínimo: -0.6°C
